@@ -1,0 +1,89 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body{
+background-image: url(img/fondo.jpg);
+background-attachment: fixed;
+}
+#contenido
+{
+    width:80%;
+    margin: 0 auto;
+}
+#bienvenida
+{
+    color: aquamarine;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
+    padding: 20px;
+}
+#menu
+{
+    border:5px solid white;
+    background:url(img/fon.jpg);
+}
+
+#menu li
+{
+    display:inline-block;
+    list-style:none;
+    text-align:center;
+    padding:15px;
+    width:20%;
+}
+#menu li a
+{
+text-decoration: none;
+color: antiquewhite;
+font-weight: bold;
+}
+
+#solo
+{
+    height: 50px;
+    width:100%;
+    background: #e56038;
+    font-size: 20px;
+    text-align:center;
+    font-weight: bold;
+    margin: top 10px;
+}
+#uno,#dos,#tres{
+    background: #afaeae;
+    margin-top: 15px;
+}
+#pie{background: #e56038;
+color:antiquewhite;
+font-size: 30px;
+text-align: center;
+}
+.titulo{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+#texto1{
+    width:30px;
+    float:rigth;
+    padding:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:justify ;
+}
+#vid2{
+    margin-left: auto;
+     background: #afaeae;
+    padding-right: auto;
+    padding:30px;
+    display:block
+}
+#texto3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding:10px;
+}
+#cancion{
+    float:rigth;
+}
